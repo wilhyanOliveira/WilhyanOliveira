@@ -11,7 +11,8 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    style = "max-width: 300px;"
     src="https://github-readme-stats.vercel.app/api?username=WilhyanOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
